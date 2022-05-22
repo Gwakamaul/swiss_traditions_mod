@@ -1,0 +1,6 @@
+{
+  "parent": "swiss_traditions_mod:item/generated",
+  "textures": {
+    "layer0": "swiss_traditions_mod:block/edelweiss"
+  }
+}
