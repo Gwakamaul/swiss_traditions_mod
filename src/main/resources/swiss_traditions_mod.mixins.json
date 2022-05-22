@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.realgwaka.swiss_traditions_mod.mixin",
+  "package": "net.gwakamaul.swiss_traditions_mod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

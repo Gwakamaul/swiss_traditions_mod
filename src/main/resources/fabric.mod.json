@@ -4,9 +4,9 @@
   "version": "${version}",
 
   "name": "Swiss Traditions Mod",
-  "description": "Le mod des traditions suisses ! Fromage, chocolats et même des peuples mythiques !",
+  "description": "The swiss traditions mod ! Cheese, chocolate and even myths !",
   "authors": [
-    "Realgwaka"
+    "Gwakamaul"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.realgwaka.swiss_traditions_mod.SwissTraditionsMod"
+      "net.gwakamaul.swiss_traditions_mod.SwissTraditionsMod"
     ]
   },
   "mixins": [

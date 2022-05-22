@@ -1,4 +1,4 @@
-package net.realgwaka.swiss_traditions_mod;
+package net.gwakamaul.swiss_traditions_mod;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
