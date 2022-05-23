@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "swiss_traditions_mod:block/edelweiss_flower"
+  }
+}

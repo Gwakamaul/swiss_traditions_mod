@@ -8,12 +8,20 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-    public static final Item EDELWEISS = registerItem("edelweiss",
-        new Item(new FabricItemSettings().group(ItemGroup.DECORATIONS)));
+
+    public static final Item ITEM_EXAMPLE = registerItem("item_example",
+        new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
     private static Item registerItem(String name, Item item) {
+
         return Registry.register(Registry.ITEM, new Identifier(SwissTraditionsMod.MOD_ID, name), item );
+
     }
+
     public static void registerModItems() {
+
         SwissTraditionsMod.LOGGER.info("Registering Mod Items for " + SwissTraditionsMod.MOD_ID);
+
     }
+
 }

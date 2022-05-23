@@ -1,3 +1,7 @@
 {
-  "item.swiss_traditions_mod.edelweiss": "Edelweiss"
+  "item.swiss_traditions_mod.item_example": "Item Example",
+
+  "block.swiss_traditions_mod.block_example": "Block Example",
+
+  "block.swiss_traditions_mod.edelweiss_flower": "Edelweiss Flower"
 }

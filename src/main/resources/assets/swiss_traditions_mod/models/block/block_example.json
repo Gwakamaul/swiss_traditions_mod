@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "swiss_traditions_mod:block/block_example"
+  }
+}
